@@ -1,0 +1,5 @@
+3;Alvaro Marchesi;César Coll;Jesus Palacios;Desenvolvimento psicológico e educação: necessidades educativas especiais e aprendizagem escolar;N.E;Porto Alegre;Artes Médicas;1995;85-7307-119-2;
+1;Knud Illeris;Teorias contemporâneas da aprendizagem;N.E;Porto Alegre;Penso;2013;978-85-65848-30-5;
+1;José Carlos Libâneo;Organização e gestão da escola: teoria e prática;6. ed.;São Paulo;Heccus Editora;2013;978-85-67281-00-1;
+1;Rupi Kaur;Meu corpo minha casa;N.E;São Paulo;Planeta;2020;978-65-5535-199-6;
+1;J. R. R. Tolkien;O Hobbit;N.E;São Paulo;Martins Fontes;2012;978-857-827-112-1;
